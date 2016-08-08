@@ -1,0 +1,26 @@
+_repo: The-Story-of-a-Piece-of-CoalWhat-It-Is-Whence-It-Comes-and-Whither-It-Goes_12762
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Martin, Edward A. (Edward Alfred)
+    birthdate: 1864
+    deathdate: 1943
+    gutenberg_agent_id: '4560'
+    url: http://www.gutenberg.org/2009/agents/4560
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2004-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coal'
+- !lcc 'TN'
+- GITenberg
+title: 'The Story of a Piece of Coal: What It Is, Whence It Comes, and Whither It
+  Goes'
+url: http://www.gutenberg.org/ebooks/12762
